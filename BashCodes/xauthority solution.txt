@@ -1,0 +1,20 @@
+#!/bin/bash
+
+#Rename the file extension to .sh and execute.
+#This script solves the problem of .Xauthority locking problem.
+#This allows GUI packages/apps, which require user authentications, to run in GUI mode if applicable.
+#'hellbreaker is an example of a username. Replace it with yours.
+
+cd /
+cd /home/hellbreaker
+mv .Xauthority .Xauthority.old
+touch .Xauthority
+chown hellbreaker:hellbreaker .Xauthority 
+
+#In cases where chown produces an error, just provide execute
+#and read write permissions, which should solve the problem.
+
+chmod +x .Xauthority
+cd /
+
+#Thank you.
