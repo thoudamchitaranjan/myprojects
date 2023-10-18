@@ -8,6 +8,7 @@
 
     <body>
 <h1># myprojects</h1>
+<p>
 #echo >> "THOU SHALT BE RESPONSIBLE"
 #I render these codes for free to all for use in any purpose at your own risk and responsibility. The owner does not bear any consequence.
 #These source codes can be modified and applied as you will and require.
@@ -15,6 +16,7 @@
 #2018
 #When you use this code, you automatically agree to these agreements.
 #exit
+</p>
     </body>
 
 </html>
