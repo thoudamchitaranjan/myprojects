@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Thoudam Chitaranjan Singh</title>
+    </head>
+
+    <body>
 # myprojects
 #echo >> "THOU SHALT BE RESPONSIBLE"
 #I render these codes for free to all for use in any purpose at your own risk and responsibility. The owner does not bear any consequence.
@@ -6,3 +15,6 @@
 #2018
 #When you use this code, you automatically agree to these agreements.
 #exit
+    </body>
+
+</html>
